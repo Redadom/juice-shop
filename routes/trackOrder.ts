@@ -2,7 +2,6 @@
  * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
 
-
 import utils = require('../lib/utils')
 import challengeUtils = require('../lib/challengeUtils')
 import { Request, Response } from 'express'
